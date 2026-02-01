@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hassan Adnan Alvi
 
 🎓 I'm a Computer Science student at Bahria University, passionate about modern technologies and software development.  
-🌐 Currently diving deep into **Full Stack Web and Application Development**, with a focus on building dynamic and scalable web applications.
+🌐 Currently diving deep into **Front-end Web and Application Development**, with a focus on building dynamic and scalable web applications.
 
 ## 🛠️ Technologies & Tools
 
